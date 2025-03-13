@@ -1,7 +1,12 @@
 requests
-pandas
-numpy
-json
-re
 tensorflow
-sklearn
+pytest
+pylint
+ipdb
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+google-cloud-storage
